@@ -167,6 +167,10 @@ namespace GerenciadorXML.functions
             }
         }
 
+        public void CompressFiles()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 ////////////////////////////////////////////////////////////////////////////////////////////////////

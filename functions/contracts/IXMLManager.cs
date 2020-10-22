@@ -12,14 +12,10 @@ namespace GerenciadorXML.functions.contracts
          List<FileAccessKey> FilesCancelAccessKeys { get; }
          void GetFilesWithKeys();
          void GetFilesWithCancelKeys();
-         //void GetAccessKey(FileInfo file);
          void SetDirectory(string path);
          void LoadFiles();
-         //void SelectFiles();
-         //void ReadFile(FileInfo file);
          void CreateFolder(string path);
-         //void MoveFiles();
-         //void DeleteFiles();
+         void CompressFiles();
 
     }
 }
