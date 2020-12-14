@@ -11,3 +11,16 @@ C:\dev\netcore\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.csproj.Core
 C:\dev\netcore\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.dll
 C:\dev\netcore\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.pdb
 C:\dev\netcore\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.genruntimeconfig.cache
+D:\dev\GerenciadorXML\bin\Debug\netcoreapp3.1\GerenciadorXML.exe
+D:\dev\GerenciadorXML\bin\Debug\netcoreapp3.1\GerenciadorXML.deps.json
+D:\dev\GerenciadorXML\bin\Debug\netcoreapp3.1\GerenciadorXML.runtimeconfig.json
+D:\dev\GerenciadorXML\bin\Debug\netcoreapp3.1\GerenciadorXML.runtimeconfig.dev.json
+D:\dev\GerenciadorXML\bin\Debug\netcoreapp3.1\GerenciadorXML.dll
+D:\dev\GerenciadorXML\bin\Debug\netcoreapp3.1\GerenciadorXML.pdb
+D:\dev\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.csprojAssemblyReference.cache
+D:\dev\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.AssemblyInfoInputs.cache
+D:\dev\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.AssemblyInfo.cs
+D:\dev\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.csproj.CoreCompileInputs.cache
+D:\dev\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.dll
+D:\dev\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.pdb
+D:\dev\GerenciadorXML\obj\Debug\netcoreapp3.1\GerenciadorXML.genruntimeconfig.cache

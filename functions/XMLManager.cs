@@ -50,6 +50,8 @@ namespace GerenciadorXML.functions
         {
             DirectoryInfo di = new DirectoryInfo(this.Folder);
             this.Files = di.GetFiles("*.xml", SearchOption.AllDirectories).ToList();
+            this.Files.RemoveAll(x => x.FullName.Contains("nfe"));
+            this.Files.RemoveAll(x => x.FullName.Contains("NFe"));
         }
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 

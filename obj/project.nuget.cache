@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXcfnxJ1kh9dU0IAfykmq/5cvM2WLDouZlNAhy0fpZK+60KJWvYWkzId8XpS1+R8ds53UsBsWbFxXcYrHFrXLw==",
+  "dgSpecHash": "qm/CcxQ2JxZGcfuKErrSv6CZelg8DGx3PGL0be/rYlAHbJz+IUyILjBW4zRzJ9bsHbQIRxUlSCHEiuVnn2WVKA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\netcore\\GerenciadorXML\\GerenciadorXML.csproj",
+  "projectFilePath": "D:\\dev\\GerenciadorXML\\GerenciadorXML.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

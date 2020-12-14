@@ -10,7 +10,7 @@ namespace GerenciadorXML
         static void Main(string[] args)
         {
             XMLManager xr = new XMLManager();
-            xr.SetDirectory(@"\\suportefacilita\\Fiscal");
+            xr.SetDirectory(@"\\suportefacilita\\Fiscal\\112020");
             Console.WriteLine($"Pasta: {xr.Folder}.");
             xr.LoadFiles();
             Console.WriteLine($"Pegou {xr.Files.Count} arquivos.");
@@ -23,7 +23,7 @@ namespace GerenciadorXML
             xr.MoveFiles();
             xr.DeleteFiles();
             Console.WriteLine("Fim");
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }

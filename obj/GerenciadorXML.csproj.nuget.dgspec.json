@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\netcore\\GerenciadorXML\\GerenciadorXML.csproj": {}
+    "D:\\dev\\GerenciadorXML\\GerenciadorXML.csproj": {}
   },
   "projects": {
-    "C:\\dev\\netcore\\GerenciadorXML\\GerenciadorXML.csproj": {
+    "D:\\dev\\GerenciadorXML\\GerenciadorXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\netcore\\GerenciadorXML\\GerenciadorXML.csproj",
+        "projectUniqueName": "D:\\dev\\GerenciadorXML\\GerenciadorXML.csproj",
         "projectName": "GerenciadorXML",
-        "projectPath": "C:\\dev\\netcore\\GerenciadorXML\\GerenciadorXML.csproj",
-        "packagesPath": "C:\\Users\\Douglas Facilita Sat\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\netcore\\GerenciadorXML\\obj\\",
+        "projectPath": "D:\\dev\\GerenciadorXML\\GerenciadorXML.csproj",
+        "packagesPath": "C:\\Users\\suporte\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\GerenciadorXML\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Douglas Facilita Sat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\suporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
